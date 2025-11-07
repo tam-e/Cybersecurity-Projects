@@ -1,8 +1,5 @@
-# 🛡️ Cybersecurity Projects Collection
-
-This repository contains a collection of simple Python scripts designed to practice fundamental cybersecurity concepts, scripting, and development logic.
-
----
+* **Purpose:** A Python script utilizing the `hashlib` library to generate secure SHA-256 hashes of input strings. It demonstrates the use of **salting**—a critical security technique—to protect against rainbow table attacks.
+* **Location:** [`hashing-utility/hasher.py`](./hashing-utility/hasher.py)
 
 ## 📚 Project List
 
