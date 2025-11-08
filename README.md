@@ -1,17 +1,28 @@
-* **Purpose:** A Python script utilizing the `hashlib` library to generate secure SHA-256 hashes of input strings. It demonstrates the use of **salting**—a critical security technique—to protect against rainbow table attacks.
-* **Location:** [`hashing-utility/hasher.py`](./hashing-utility/hasher.py)
+# 🛡️ Cybersecurity Projects Collection
+
+This repository contains a collection of simple Python scripts designed to practice fundamental cybersecurity concepts, scripting, and development logic.
+
+---
 
 ## 📚 Project List
 
-### 1. Simple Port Scanner (Project #2)
+### 1. Simple Packet Analyzer (Project #5)
+* **Purpose:** A Python script utilizing the built-in `scapy` library to capture, inspect, and analyze network packets (TCP, UDP, ICMP) to demonstrate basic network monitoring and reconnaissance.
+* **Location:** [`packet-analyzer/analyzer.py`](./packet-analyzer/analyzer.py)
+
+### 2. Simple Hashing Utility (Project #4)
+* **Purpose:** A Python script utilizing the `hashlib` library to generate secure SHA-256 hashes of input strings. It demonstrates the use of **salting**—a critical security technique—to protect against rainbow table attacks.
+* **Location:** [`hashing-utility/hasher.py`](./hashing-utility/hasher.py)
+
+### 3. Simple Port Scanner (Project #2)
 * **Purpose:** A Python script utilizing the built-in `socket` module to scan a target IP or hostname for commonly open TCP ports (22, 80, 443, etc.). This demonstrates basic network reconnaissance and socket programming.
 * **Location:** [`port-scanner/simple_scanner.py`](./port-scanner/simple_scanner.py)
 
-### 2. Password Checker Assistant (Project #1)
+### 4. Password Checker Assistant (Project #1)
 * **Purpose:** A Python script that checks a user-provided password against 5 core security rules (Length, Uppercase, Lowercase, Digit, Special Character) and assigns a strength rating.
 * **Location:** [`password-checker/password_checker.py`](./password-checker/password_checker.py)
 
-### 3. Cyber Terminology Explainer Chatbot (Project #3)
+### 5. Cyber Terminology Explainer Chatbot (Project #3)
 * **Purpose:** A rule-based chatbot that uses keyword matching to provide definitions for cybersecurity terms (Malware, Phishing, VPN, etc.).
 * **Location:** [`cyber_chatbot.py`](./cyber_chatbot.py)
 * *Note: Detailed usage and examples for the chatbot are listed below.*
