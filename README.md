@@ -42,3 +42,15 @@ Once you **Save** the updated `README.md` file (and ensure your `log-analyzer` f
 3.  **Push:** Open the **Command Palette** (**`Ctrl` + `Shift` + `P`**) and select **`Git: Push`**.
 
 This will publish your sixth project!
+
+### ### 7. Threat Intel Client (Project #7)
+* **Purpose:** A Python tool that queries the VirusTotal API to check the reputation of IP addresses and detect potential malicious activity.
+* **Location:** [`threat-intel-client/vt_checker.py`](./threat-intel-client/vt_checker.py)
+
+### ### 8. NOC Network Health Suite (Project #8)
+* **Purpose:** A real-time monitoring dashboard with color-coded latency alerts and automated historical reporting for network stability.
+* **Location:** [`noc-monitor/network_dashboard.py`](./noc-monitor/network_dashboard.py)
+
+#### 📊 Project Preview
+![NOC Dashboard](assets/noc-monitor_screenshot_1.png)
+![NOC Report](assets/noc-monitor_screenshot_2.png)
