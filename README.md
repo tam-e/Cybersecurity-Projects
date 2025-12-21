@@ -54,3 +54,8 @@ This will publish your sixth project!
 #### 📊 Project Preview
 ![NOC Dashboard](assets/noc-monitor_screenshot_1.png)
 ![NOC Report](assets/noc-monitor_screenshot_2.png)
+
+### ### 9. Automated IP Blocker (Project #9)
+* **Purpose:** A security automation script that monitors login logs, detects brute-force attack patterns using Regex, and automatically blacklists malicious IP addresses.
+* **Location:** [`security-automation/ip_blocker.py`](./security-automation/ip_blocker.py)
+![IP Blocker](assets/ip_blocker_screenshot.png)
