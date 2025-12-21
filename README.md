@@ -59,3 +59,10 @@ This will publish your sixth project!
 * **Purpose:** A security automation script that monitors login logs, detects brute-force attack patterns using Regex, and automatically blacklists malicious IP addresses.
 * **Location:** [`security-automation/ip_blocker.py`](./security-automation/ip_blocker.py)
 ![IP Blocker](assets/ip_blocker_screenshot.png)
+
+### ### 10. SIEM Dashboard "Lite" (Project #10)
+* **Purpose:** A centralized Security Information and Event Management (SIEM) console that aggregates telemetry from multiple security modules to provide a high-level overview of system health and threats.
+* **Location:** [`siem-dashboard/siem_manager.py`](./siem-dashboard/siem_manager.py)
+
+#### 📊 Project Preview
+![SIEM Dashboard](assets/siem_dashboard_screenshot.png)
