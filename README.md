@@ -66,3 +66,10 @@ This will publish your sixth project!
 
 #### 📊 Project Preview
 ![SIEM Dashboard](assets/siem_dashboard_screenshot.png)
+
+### ### 11. Web Vulnerability Scanner (Project #11)
+* **Purpose:** An automated security auditing tool that inspects HTTP response headers to identify missing security protections like HSTS, CSP, and X-Frame-Options.
+* **Location:** [`vuln-scanner/header_scanner.py`](./vuln-scanner/header_scanner.py)
+
+#### 📊 Project Preview
+![Vuln Scanner](assets/vuln_scanner_screenshot.png)
